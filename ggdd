@@ -1,5 +1,4 @@
--- skid by discord https://discord.com/invite/9HSacrHPzy
--- Adonis bypasser
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Pixeluted/adoniscries/main/Source.lua", true))() 
 skidmyway1 = Instance.new("BindableFunction")
 function skidmyway1.OnInvoke(response)
@@ -1108,4 +1107,3 @@ game.StarterGui:SetCore("SendNotification", {
         Text = "OMG HUB SKID THIS SCRIPT WITHOUT ASK THE OWNER LOL PROOF HERE : https://scriptblox.com/script/Old!!Rock-Fruit-OMG-HUB-SKID-SCRIPT-BY-WYNERD-WOW-NO-CREDIT-13697";
         Duration = 5;
 })
--- discord
